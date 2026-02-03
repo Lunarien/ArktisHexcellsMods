@@ -104,7 +104,6 @@ namespace HexcellsMpMod
 					{
 						client.Connect(addressAndPort[0], port);
 					}
-
 				}
 				else
 				{
